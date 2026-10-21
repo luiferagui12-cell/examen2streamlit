@@ -14,7 +14,7 @@ st.set_page_config(
 st.title("TechVentas: Panel de Control y Gestión de Inventario")
 
 ruta_archivo = (
-    r"C:\Users\Usuario\OneDrive\Escritorio\INTECCSA\streamlit\InventarioTechZone.xlsx"
+    r"C:\Users\Usuario\OneDrive\Escritorio\INTECCSA\streamlit\examen2streamlit\InventarioTechZone.xlsx"
 )
 
 
